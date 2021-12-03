@@ -70,7 +70,7 @@
 				float:right;
 			}
 			main{
-				width:1000px;
+				width:1010px;
 				margin:auto;
 				background-color:rgb(248, 239, 255);
 				padding:30px;
@@ -86,7 +86,7 @@
 			header{
 				text-align:center;
 				border:solid 2px black;
-				width:1060px;
+				width:1070px;
 				height:150px;
 				margin:auto;
 			}
